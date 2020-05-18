@@ -1,0 +1,2 @@
+https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+https://kraj3.com.np/blog/2019/10/min-max-normalization-with-example/
