@@ -1,2 +1,15 @@
+Reading Materials:
 https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
+
+Documentation:
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+https://keras.io/api/utils/python_utils/#to_categorical-function
+https://keras.io/api/layers/convolution_layers/convolution2d/
+https://keras.io/api/layers/pooling_layers/max_pooling2d/
+https://keras.io/api/layers/core_layers/input/
+https://keras.io/api/layers/core_layers/dense/
+https://keras.io/api/layers/normalization_layers/batch_normalization/
+https://keras.io/api/layers/regularization_layers/dropout/
+https://keras.io/api/layers/reshaping_layers/flatten/
